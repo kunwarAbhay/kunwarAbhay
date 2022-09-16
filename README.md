@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">A passionate programmer🙂 from India</h3>
 
-- 🌱 I’m currently learning **ML/AI and Web automation**
+- 🌱 I’m currently learning **Full Stack Development & Algorithms**
 
 - 💬 Ask me about **Javascript, CSS, Data Structure & Algorithms**
 
